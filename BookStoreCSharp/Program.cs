@@ -30,9 +30,6 @@ Numero di recensioni: << numeroRecensioni >> recensioni
 Valutazione media: << valutazioneMedia >> stelline
 Kindle disponibile: Si o No
 Copertina flessibile disponibile: Si o No
-------------------------------------------------------------------------------------
-BONUS:
-Per chi di voi che se la sente può poi modificare questo programma, creando un nuovo progetto BONUS dove può cimentarsi nel rendere le variabili non più “hardcoded” nel codice e provare invece a chiedere le informazioni del libro direttamente all’utente tramite l’input della console.
 */
 
 string titolo = "TITOLO";
